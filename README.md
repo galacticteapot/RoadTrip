@@ -1,2 +1,2 @@
 # RoadTrip
-RoadTrip Trave Games
+RoadTrip Travel Games
